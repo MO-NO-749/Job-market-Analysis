@@ -21,7 +21,7 @@
 ## Data Model - 
     Used a normal date and main table connection first but marged Two  tables for quick load. Skills montioned in for a job id 
 ---
-
+![Data Model](DOC/)
 ## 🏗️ Data Transformation Approach
 
 The project uses a 3-step flow within Excel:
@@ -86,6 +86,7 @@ Skills were stored as array strings per row and exploded into individual rows du
 
 ---
 
+
 ## 🚀 Key Findings
 
 1. Senior Data Engineer has the highest median salary (~$155K)
@@ -106,9 +107,17 @@ Skills were stored as array strings per row and exploded into individual rows du
 5. Do not edit the Source Table sheet directly
 
 ---
+For more details, refer to [Documentation](DOC/)
 
-## 👤 Author
+## 🛡️ License
 
-**[Your Name]**  
-Data Analyst | SQL · Excel · Power BI  
-[LinkedIn](#)
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **Monojit Samanta**. I’m an B.com graduate want to excel in my professional life with data in front and finance as domain.
+
+Let's stay in touch! Feel free to connect with me on the following platform:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monojit-samanta-720889383)
+
