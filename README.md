@@ -18,10 +18,11 @@
     ├── Data Model
     └── DAX_Measures
 ```
-## Data Model - 
-    Used a normal date and main table connection first but marged Two  tables for quick load. Skills montioned in for a job id 
+## Data Model 
+   Used a normal date and main table connection first but marged Two  tables for quick load. Skills montioned in for a job id 
 ---
 ![Data Model](DOC/Data%20Model%20.png)
+
 ## 🏗️ Data Transformation Approach
 
 The project uses a 3-step flow within Excel:
