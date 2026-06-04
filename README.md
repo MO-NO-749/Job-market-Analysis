@@ -7,16 +7,16 @@
 ## 🗂️ Project Structure
 
 ```
-├── Source Table          # Raw dataset (32,672 rows, 16 columns)
-├── Sheet1                # Power Query cleaned & transformed data
-├── Pivot_Table           # Aggregation layer feeding dashboard visuals
-├── DashBoard1            # Job market overview dashboard
-├── DashBoard2            # Salary & forecast dashboard
+└── .xlsx/
+    ├── Source Table          # Raw dataset (32,672 rows, 16 columns)
+    ├── Sheet1                # Power Query cleaned & transformed data
+    ├── Pivot_Table           # Aggregation layer feeding dashboard visuals
+    ├── DashBoard1            # Job market overview dashboard
+    ├── DashBoard2            # Salary & forecast dashboard
 └── Docs/
     ├── Data Catalog
     ├── Data Model
-    ├── Functional Requirements
-    └── Improvement Plan
+    └── DAX_Measures
 ```
 ## Data Model - 
     Used a normal date and main table connection first but marged Two  tables for quick load. Skills montioned in for a job id 
